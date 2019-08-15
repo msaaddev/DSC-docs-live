@@ -16,7 +16,7 @@
 
   .content{
       width: 80%;
-      float: left;
+
   }
 
   .content:hover {
@@ -28,5 +28,5 @@
     float: right;
   }
 
-  
+
 }
