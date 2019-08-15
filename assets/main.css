@@ -80,7 +80,7 @@ body {
   text-align: left !important;
   transition: all 0.5s;
   cursor: pointer;
-  
+
 }
 
 .content:hover {
@@ -91,3 +91,4 @@ body {
 .content p {
   font-size: 1.15em;
 }
+
