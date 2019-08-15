@@ -83,6 +83,10 @@ body {
 
 }
 
+.content h2 {
+  margin-bottom: 5px;
+}
+
 .content:hover {
   cursor: pointer;
   transform: scale(1.10);
@@ -92,3 +96,12 @@ body {
   font-size: 1.15em;
 }
 
+
+
+hr {
+  margin-bottom: 5px;
+  height: 1px;
+  color: #323639;
+  background-color: #323639;
+  border: none;
+}
