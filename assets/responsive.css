@@ -16,5 +16,6 @@
 
   .content{
       width: 80%;
+      float: right;
   }
 }
