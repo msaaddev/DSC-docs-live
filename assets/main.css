@@ -115,3 +115,8 @@ footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
 }
+
+.SOP h2 {
+  padding: 0px 30px !important;
+  margin: 0 !important;
+}
