@@ -16,6 +16,11 @@
 
   .content{
       width: 80%;
-      float: right;
+      float: left;
+  }
+
+  .content:hover {
+    cursor: pointer;
+    transform: scale(1.05);
   }
 }
