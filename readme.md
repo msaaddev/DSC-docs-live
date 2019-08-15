@@ -17,3 +17,6 @@
 <div align="center">
 <img src="https://dzwonsemrish7.cloudfront.net/items/2U2m3L1V0V454729202s/Image%202019-08-13%20at%203.54.19%20PM.png?v=64dfca43" alt="Hierarchy">
 </div>
+
+## 💥 Note
+The design of the static page is inspired from [Title Case It](https://titlecaseit.ahmadawais.com) which was created by [Ahmad Awais](https://ahmadawais.com).
