@@ -72,9 +72,21 @@ body {
 
 .content {
   margin: 10px 30px;
-  padding-left: 30px;
+  padding: 20px 30px;
   border: solid 1px;
   border-radius: 3px;
+  box-shadow: 5px 5px 20px black;
   width: 70%;
-  text-align: left !important
+  text-align: left !important;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.content:hover {
+  cursor: pointer;
+  transform: scale(1.10);
+}
+
+.content p {
+  font-size: 1em;
 }

@@ -13,4 +13,8 @@
     width: 50%;
     margin: 10 0;
   }
+
+  .content{
+      width: 80%;
+  }
 }
