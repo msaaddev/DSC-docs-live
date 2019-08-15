@@ -107,3 +107,14 @@ hr {
   background-color: #323639;
   border: none;
 }
+
+footer {
+  clear: both;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+footer p {
+}
