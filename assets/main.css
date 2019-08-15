@@ -49,7 +49,7 @@ body {
 }
 
 #logo_and_text {
-  margin: 10px 0;
+  margin: 10px 30px;
 }
 
 #logo_and_text img {
@@ -78,18 +78,12 @@ body {
   box-shadow: 5px 5px 20px black;
   width: 70%;
   text-align: left !important;
-  transition: all 0.5s;
   cursor: pointer;
   float: left;
 }
 
 .content h2 {
   margin-bottom: 5px;
-}
-
-.content:hover {
-  cursor: pointer;
-  transform: scale(1.1);
 }
 
 .content p {
@@ -117,6 +111,9 @@ footer {
 }
 
 .SOP h2 {
-  padding: 0px 30px !important;
   margin: 0 !important;
+}
+
+li {
+  line-height: 20px;
 }
